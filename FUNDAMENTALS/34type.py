@@ -1,0 +1,6 @@
+print(type(50))
+print(type('Shihab'))
+print(type([]))
+print(type({}))
+print(type({0, 1, 1}), {0, 1, 1})
+print(type(dict()))
