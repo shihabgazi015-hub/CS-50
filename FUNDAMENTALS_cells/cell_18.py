@@ -1,0 +1,1 @@
+print(f'{round(x+u):,}')
